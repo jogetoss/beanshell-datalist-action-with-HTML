@@ -1,6 +1,6 @@
 # Description
 
-This repository is meant to serve as a general template for how to set up new repositories in the JogetOSS organization. 
+This repository contains the Bean Shell Datalist Action with HTML provides an easy option for users to add HTML code into the datalist.
 
 # Getting Help
 
